@@ -1,0 +1,11 @@
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\bin\Debug\Interface_lab№1.exe.config
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\bin\Debug\Interface_lab№1.exe
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\bin\Debug\Interface_lab№1.pdb
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.csproj.AssemblyReference.cache
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.csproj.SuggestedBindingRedirects.cache
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab_1.Form1.resources
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab_1.Properties.Resources.resources
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.csproj.GenerateResource.cache
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.csproj.CoreCompileInputs.cache
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.exe
+C:\Users\malax\source\repos\Interface_lab№1\Interface_lab№1\obj\Debug\Interface_lab№1.pdb
